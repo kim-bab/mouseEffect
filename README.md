@@ -1,5 +1,5 @@
 # mouseEffect✨
-호버 시 작동하는 여러가지 마우스 효과를 보여줍니다.
+호버 시 작동하는 여러가지 마우스 효과를 보여줍니다.<br>
 <a href="https://kim-bab.github.io/mouseEffect/">링크</a>
 
 
